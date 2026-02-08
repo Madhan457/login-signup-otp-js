@@ -44,11 +44,3 @@ JavaScript – Logic, validation & DOM manipulation
 
 This project was created to practice real-world authentication logic, improve JavaScript fundamentals, and understand form validation and user flow in front-end development.
 It’s ideal for beginners who want hands-on experience with practical UI-based projects.
-
-🚀 How to Run
-
-Clone the repository
-
-Open login/login.html in your browser
-
-Navigate through Signup → OTP → Login
