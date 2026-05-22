@@ -13,6 +13,6 @@ function signup(e) {
   } else if (password1 !== password2) {
     alert("Password must be equal");
   } else {
-    window.location.href = "/Projects/linkedin/loginsigninotp/otp/otp.html";
+    window.location.href = "/loginsigninotp/otp/otp.html";
   }
 }
